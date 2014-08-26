@@ -1,0 +1,11 @@
+{
+	"name": "units",
+	"url": "https://github.com/ibilon/units",
+	"license": "MIT",
+	"tags": ["unit", "conversion"],
+	"description": "Set of haxe abstract to deal with units",
+	"version": "0.0.1",
+	"releasenote": "",
+	"contributors": ["_ibilon"],
+	"dependencies": { }
+}
