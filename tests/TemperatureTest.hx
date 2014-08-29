@@ -2,7 +2,7 @@ import units.Temperature;
 
 class TemperatureTest extends haxe.unit.TestCase
 {
-	static var e = 1e-12;
+	static inline var e = 1e-12;
 	
 	public function testConvertionToCelsius ()
 	{
